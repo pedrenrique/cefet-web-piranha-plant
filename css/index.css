@@ -1,0 +1,51 @@
+body{
+    margin: auto 10%;
+    font-size: 14px;
+    font-family: 'Arial', sans-serif;
+    text-align: justify;
+}
+
+h1{
+    color: limegreen;
+    font-size: 28px;
+    font-family: 'Times New Roman', serif;
+    text-align: justify;
+}
+
+h2{
+    color: limegreen;
+    font-size: 22px;
+    font-family: 'Times New Roman', serif;
+    text-align: justify;
+}
+
+#citacao{
+
+    margin: auto auto auto 60px;
+}
+
+#bloco-importante{
+
+    border: 3px solid limegreen;
+    padding: 10px;
+    background-image: url(../imagens/fundo.png);
+    text-align: justify;
+
+}
+
+#imagem-jaula{
+    border-width: 300px;
+    border: 8px solid limegreen;
+    display: block;
+    margin: 0 auto;
+    text-align: justify;
+
+}
+
+#imagem-succao{
+    border-width: 300px;
+    border: 8px solid limegreen;
+    display: block;
+    margin: 0 auto;
+    text-align: justify;
+}
