@@ -12,3 +12,27 @@ h1{
     font-family: 'Times New Roman', serif;
     text-align: justify;
 }
+
+#tabela{
+
+    width: 600px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+#cabecalho{
+
+    
+    text-align: center;
+    margin: auto;
+    background-color: #868585;
+    color: #f0f0f0;
+}
+
+td, th{
+    border: 1px solid black;
+}
+
+table{
+    border-collapse: collapse;
+}
